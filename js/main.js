@@ -1,4 +1,3 @@
-
 var $body = $('body');
 var $header1 = $('<h2>');
 var $header2 = $('<h2>');
